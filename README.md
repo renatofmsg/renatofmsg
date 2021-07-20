@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renatofmsg
-- 👀 I’m interested in Drones, UAVs
+- 👀 I’m interested in Drones, UAVs, logistic optimization
 - 🌱 I’m currently learning Machine Learning, Python, Workcloud, Picat
-- 💞️ I’m looking to collaborate on Drones images processing
+- 💞️ I’m looking to collaborate on Drones images processing and logistic optimization
 - 📫 How to reach me - by email
 
 <!---
